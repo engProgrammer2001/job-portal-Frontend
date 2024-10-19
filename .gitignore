@@ -10,7 +10,9 @@
 
 # production
 /build
-
+/build.zip
+/build1.zip
+/build-half-working.zip
 # misc
 .DS_Store
 .env.local
